@@ -1,0 +1,179 @@
+# Site
+repository: IrePin/irepin.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Ilya Repin
+title: Unity 3d Developer, Sound Designer
+email: gagistos@gmail.com
+# email_title: Email (Email title override)
+phone: +380663450554
+# phone_title: Phone (Phone title override)
+website: https://soundcloud.com/irepin
+# website_title: Web (Website title override)
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+twitter_username: IlaRepin1
+github_username:  IrePin
+instagram_username: enemixx
+linkedin_username: ilrepin
+youtube_username: "@gagistos3926"
+soundcloud_username: irepin
+
+# Additional icon links
+additional_links:
+- title: IrePin
+  icon: fas fa-globe
+  url: https://irepin.github.io/
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/profile_2.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I am Ilya, and I specialize in developing applications using Unity 3D. Throughout last year, I made significant progress in enhancing my skills as a Unity developer. 
+  My daily efforts focused on teamwork, effective communication, thorough research, and continuous learning of programming languages, with a particular emphasis on object-oriented programming.
+  As a result of my project-based learning and self-teaching experiences, I possess knowledge of the Unity Engine and C#. 
+  I am currently seeking a career as a Game Developer, and I believe my passion for continuous learning and self-improvement
+  will be invaluable in achieving my goals. With a proactive mindset, I am committed to daily growth and development,
+  and eager to leverage my talents and expertise to make meaningful contributions in the field.
+
+  I am most skilled in:<mark>Unity</mark>, <mark>FMOD</mark> and <mark>Sound Design</mark>
+
+content:
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      HARD: <mark>Unity/C#</mark>,<mark>FMOD</mark>,<mark>GIT</mark>,<mark>Abletone Live</mark>
+
+      SOFT: <mark>Communication</mark>,<mark>Organisation</mark>,<mark>Creativity and innovation</mark>,<mark>Accountability</mark>,<mark>Flexibility</mark>,<mark>Eager to learn</mark>,<mark>Perseverance</mark>,<mark>Resourcefulness</mark>,<mark>Problem solving</mark>
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Scavenging Roots
+        link: https://hazkin.itch.io/scavenging-roots
+        link_text: Scavenging Roots Game
+        additional_links:
+          - title:  Scavenging Roots Github
+            icon: fab fa-github
+            url: https://github.com/IliaValianov/GBP
+        quote: >
+           Game was developed for Global Game Jam 2023
+        description: | # this will include new lines to allow paragraphs
+         We have developed this game in one week, with a team of 7 people, and my role in the project is the <mark>Sound Design</mark>. I wrote the entire soundtrack and programmed the <mark>FMOD</mark>.
+         This project has taught me a lot of skills and I am very proud to have it in my portfolio.
+
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: IrePin Games
+        sub_title: Unity Developer
+        caption: august 2022 - Present
+        link: github.com/IrePin-Games
+        quote: >
+          IrePin-Games is a project focused on developing a series of games set in the same fictional universe.
+        description: | # this will include new lines to allow paragraphs
+          IrePin-Games is a personal endeavor of mine where I am working on creating multiple games that exist within the same fictional universe. 
+          The premise of these games revolves around the conflict between the C.A.T.S. special unit and the "Zorbo" organization. 
+          The latter aims to seize control of the world and enforce its oppressive, slave-like ideology on the global population.
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Udemy
+        caption: 08.2022 - 09.2022
+        sub_title: Unity Turn-Based Strategy Game Intermediate C# Coding
+        link: http://surl.li/ezymx
+
+        quote: >
+          Udemy is an online learning platform that offers courses on a wide range of subjects,
+          including business, technology, design, and personal development.
+        description: | # this will include new lines to allow paragraphs
+          Throughout this course, I was able to elevate my skills from a beginner level to an advanced level. I gained valuable knowledge on managing and organizing complex projects, created a custom Grid System, and learned advanced programming concepts including C# generics, C# events, and custom structs. In addition, I also learned about A* Pathfinding, which was an added bonus.
+
+      - layout: left
+        title: Udemy
+        caption: 10.2022 - 11.2022
+        sub_title: Master Unity Engine (2022) and C# Programing By Creating A First Person Shooter Using Modern Unity Development Technics
+        link: http://surl.li/favff 
+
+        quote: >
+          Udemy is an online learning platform that offers courses on a wide range of subjects, 
+          including business, technology, design, and personal development.
+        description: | # this will include new lines to allow paragraphs
+          In this course I learned how to create first-person shooters. I worked with the enemy AI, created a system of weapons and shooting. I made a health system.
+
+      - layout: left
+        title: Zenva Academy
+        sub_title: "Unity Mini-Projects - C# Fundamentals"
+        link: http://surl.li/fabtu
+
+        quote: >
+          Zenva is an online learning platform that offers courses and tutorials on various topics related to programming, game development, web development, machine learning, data science, and more. 
+        description: | # this will include new lines to allow paragraphs
+          In this course I learned C# fundamentals.
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      I was working on TV like an editor near 10 years.
+      From this experience I can say that I am very stress-resistant and know how to work in a team.
+      But over time I realised that this job was not really my thing. 
+      I've been thinking for a long time about how to get closer to game development. 
+      I played a lot of games and realised that I enjoyed figuring out how their mechanics worked. 
+      So I decided to change careers and started training in the field. 
+      I have completely immersed myself in the world of video game development. 
+  - title: My hobbies
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      I like to read books, my favourite genre is science fiction. 
+      I like to experiment with different kinds of music. I like to play games. 
+      I love animals. Personal development is one of my favourite hobbies. 
+  - title: My favorite games
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Fallout. XCOM. Sublustum. Mafia. COD:Warzone. Quake. StarCraft. Red Alert. 
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
