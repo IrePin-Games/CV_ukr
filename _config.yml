@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Ilya Repin
+name: Ілля Репін
 title: Unity 3d Developer, Sound Designer
 email: gagistos@gmail.com
 # email_title: Email (Email title override)
@@ -45,14 +45,14 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile_2.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am Ilya, and I specialize in developing applications using Unity 3D. Throughout last year, I made significant progress in enhancing my skills as a Unity developer. 
-  My daily efforts focused on teamwork, effective communication, thorough research, and continuous learning of programming languages, with a particular emphasis on object-oriented programming.
-  As a result of my project-based learning and self-teaching experiences, I possess knowledge of the Unity Engine and C#. 
-  I am currently seeking a career as a Game Developer, and I believe my passion for continuous learning and self-improvement
-  will be invaluable in achieving my goals. With a proactive mindset, I am committed to daily growth and development,
-  and eager to leverage my talents and expertise to make meaningful contributions in the field.
+  Мене звати Ілля, і я спеціалізуюсь на розробці додатків з використанням Unity 3D. Протягом минулого року я зробив значний прогрес у вдосконаленні своїх навичок як розробника Unity. 
+  Мої щоденні зусилля були зосереджені на командній роботі, ефективній комунікації, ретельному дослідженні та постійному вивченні мов програмування, з особливим акцентом на об'єктно-орієнтованому програмуванні.
+  В результаті мого проектного навчання та досвіду самонавчання я володію знаннями Unity Engine та C#. 
+  Наразі я прагну побудувати кар'єру розробника ігор і вважаю, що моя пристрасть до безперервного навчання та самовдосконалення
+  буде безцінною у досягненні моїх цілей. Маючи проактивне мислення, я прагну до щоденного зростання та розвитку,
+  і прагну використовувати свої таланти та досвід, щоб зробити значущий внесок у цій галузі.
 
-  I am most skilled in:<mark>Unity</mark>, <mark>FMOD</mark> and <mark>Sound Design</mark>
+  Я найбільш досвідчений у: <mark>Unity</mark>, <mark>FMOD</mark> та <mark>Sound Design</mark>.
 
 content:
   - title: Skills
