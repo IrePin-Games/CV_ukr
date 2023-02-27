@@ -42,7 +42,7 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: Про мене
 about_profile_image: images/profile_2.jpg
 about_content: | # this will include new lines to allow paragraphs
   Мене звати Ілля, і я спеціалізуюсь на розробці додатків з використанням Unity 3D. Протягом минулого року я зробив значний прогрес у вдосконаленні своїх навичок як розробника Unity. 
@@ -55,13 +55,13 @@ about_content: | # this will include new lines to allow paragraphs
   Я найбільш досвідчений у: <mark>Unity</mark>, <mark>FMOD</mark> та <mark>Sound Design</mark>.
 
 content:
-  - title: Skills
+  - title: Вміння та навички
     layout: text
     content: | # this will include new lines to allow paragraphs
       HARD: <mark>Unity/C#</mark>,<mark>FMOD</mark>,<mark>GIT</mark>,<mark>Abletone Live</mark>
 
-      SOFT: <mark>Communication</mark>,<mark>Organisation</mark>,<mark>Creativity and innovation</mark>,<mark>Accountability</mark>,<mark>Flexibility</mark>,<mark>Eager to learn</mark>,<mark>Perseverance</mark>,<mark>Resourcefulness</mark>,<mark>Problem solving</mark>
-  - title: Projects # Title for the section
+      SOFT: <mark>Комунікабельність</mark>, <mark>Організованість</mark>, <mark>Креативність та інноваційність</mark>, <mark>Відповідальність</mark>, <mark>Гнучкість</mark>, <mark>Бажання вчитися</mark>, <mark>Наполегливість</mark>, <mark>Винахідливість</mark>, <mark>Розв'язання проблем</mark>.
+  - title: Проєкти # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -75,12 +75,11 @@ content:
             icon: fab fa-github
             url: https://github.com/IliaValianov/GBP
         quote: >
-           Game was developed for Global Game Jam 2023
+           Гра була розроблена для Global Game Jam 2023
         description: | # this will include new lines to allow paragraphs
-         We have developed this game in one week, with a team of 7 people, and my role in the project is the <mark>Sound Design</mark>. I wrote the entire soundtrack and programmed the <mark>FMOD</mark>.
-         This project has taught me a lot of skills and I am very proud to have it in my portfolio.
-
-  - title: Experience
+         Ми розробили цю гру за один тиждень, командою з 7 осіб, і моя роль у проекті - <mark>Sound Design</mark>. Я написав весь саундтрек і запрограмував <mark>FMOD</mark>.
+         Цей проект навчив мене багатьом навичкам, і я дуже пишаюся тим, що він є в моєму портфоліо.
+  - title: Досвід
     layout: list
     content:
       - layout: right
@@ -89,12 +88,12 @@ content:
         caption: august 2022 - Present
         link: github.com/IrePin-Games
         quote: >
-          IrePin-Games is a project focused on developing a series of games set in the same fictional universe.
+          IrePin-Games - це проект, орієнтований на розробку серії ігор в одному вигаданому всесвіті.
         description: | # this will include new lines to allow paragraphs
-          IrePin-Games is a personal endeavor of mine where I am working on creating multiple games that exist within the same fictional universe. 
-          The premise of these games revolves around the conflict between the C.A.T.S. special unit and the "Zorbo" organization. 
-          The latter aims to seize control of the world and enforce its oppressive, slave-like ideology on the global population.
-  - title: Education # Title for the section
+          IrePin-Games - це моя особиста ініціатива, в рамках якої я працюю над створенням кількох ігор, що існують в одному вигаданому всесвіті. 
+          В основі цих ігор лежить конфлікт між спецпідрозділом C.A.T.S. та організацією "Зорбо", яка прагне захопити контроль над світом і придушити його. 
+          Остання прагне захопити контроль над світом і нав'язати свою деспотичну, рабовласницьку ідеологію населенню планети.
+  - title: Навчання та освіта # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -104,11 +103,10 @@ content:
         link: http://surl.li/ezymx
 
         quote: >
-          Udemy is an online learning platform that offers courses on a wide range of subjects,
-          including business, technology, design, and personal development.
+          Udemy - це платформа для онлайн-навчання, яка пропонує курси з широкого спектру предметів,
+          включаючи бізнес, технології, дизайн та особистий розвиток.
         description: | # this will include new lines to allow paragraphs
-          Throughout this course, I was able to elevate my skills from a beginner level to an advanced level. I gained valuable knowledge on managing and organizing complex projects, created a custom Grid System, and learned advanced programming concepts including C# generics, C# events, and custom structs. In addition, I also learned about A* Pathfinding, which was an added bonus.
-
+          Протягом цього курсу я зміг підвищити свої навички з початкового рівня до просунутого. Я отримав цінні знання з управління та організації складних проектів, створив власну Grid-систему та вивчив просунуті концепції програмування, включаючи загальні елементи C#, події C# та користувацькі структури. Крім того, я також дізнався про A* Pathfinding, що було додатковим бонусом.
       - layout: left
         title: Udemy
         caption: 10.2022 - 11.2022
@@ -116,37 +114,36 @@ content:
         link: http://surl.li/favff 
 
         quote: >
-          Udemy is an online learning platform that offers courses on a wide range of subjects, 
-          including business, technology, design, and personal development.
+          Udemy - це платформа для онлайн-навчання, яка пропонує курси з широкого спектру предметів,
+          включаючи бізнес, технології, дизайн та особистий розвиток.
         description: | # this will include new lines to allow paragraphs
-          In this course I learned how to create first-person shooters. I worked with the enemy AI, created a system of weapons and shooting. I made a health system.
-
+          На цьому курсі я навчився створювати шутери від першої особи. Я працював зі штучним інтелектом ворога, створював систему зброї та стрільби. Зробив систему здоров'я.
       - layout: left
         title: Zenva Academy
         sub_title: "Unity Mini-Projects - C# Fundamentals"
         link: http://surl.li/fabtu
 
         quote: >
-          Zenva is an online learning platform that offers courses and tutorials on various topics related to programming, game development, web development, machine learning, data science, and more. 
+          Zenva - це платформа для онлайн-навчання, яка пропонує курси та підручники на різні теми, пов'язані з програмуванням, розробкою ігор, веб-розробкою, машинним навчанням, наукою про дані тощо.
         description: | # this will include new lines to allow paragraphs
-          In this course I learned C# fundamentals.
-  - title: A Little More About Me
+          На цьому курсі я вивчив основи C#.
+  - title: Трохи більше про мене
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I was working on TV like an editor near 10 years.
-      From this experience I can say that I am very stress-resistant and know how to work in a team.
-      But over time I realised that this job was not really my thing. 
-      I've been thinking for a long time about how to get closer to game development. 
-      I played a lot of games and realised that I enjoyed figuring out how their mechanics worked. 
-      So I decided to change careers and started training in the field. 
-      I have completely immersed myself in the world of video game development. 
-  - title: My hobbies
+      Близько 10 років я працювала на телебаченні редактором.
+      З цього досвіду можу сказати, що я дуже стресостійка і вмію працювати в команді.
+      Але з часом я зрозумів, що ця робота - не зовсім моє. 
+      Я довго думав про те, як стати ближче до розробки ігор. 
+      Я грав у багато ігор і зрозумів, що мені подобається розбиратися, як працює їхня механіка. 
+      Тож я вирішив змінити професію і почав навчатися у цій сфері. 
+      Я повністю занурився у світ розробки відеоігор.
+  - title: Мої хобі
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I like to read books, my favourite genre is science fiction. 
-      I like to experiment with different kinds of music. I like to play games. 
-      I love animals. Personal development is one of my favourite hobbies. 
-  - title: My favorite games
+      Люблю читати книги, мій улюблений жанр - наукова фантастика. 
+      Люблю експериментувати з різними видами музики. Люблю грати в ігри. 
+      Люблю тварин. Особистий розвиток - одне з моїх улюблених хобі.
+  - title: Улюблені ігри
     layout: text
     content: | # this will include new lines to allow paragraphs
       Fallout. XCOM. Sublustum. Mafia. COD:Warzone. Quake. StarCraft. Red Alert. 
